@@ -12,12 +12,12 @@
 
 | Aula | Exercício | Pasta |
 |------|-----------|-------|
-| 03 | Cartão de Visita Digital | [aula03-cartao-visita](./aula03-cartao-visita/) |
-| 04 | Contador de Hidratação | [aula04-contador-hidratacao](./aula04-contador-hidratacao/) |
-| 05 | Meu Perfil | [aula05-meu-perfil](./aula05-meu-perfil/) |
-| 06 | MemoList | [aula06-memolist](./aula06-memolist/) |
-| 07 | Mini Loja | [aula07-mini-loja](./aula07-mini-loja/) |
-| 09 | Cadastro Completo | [aula09-cadastro-completo](./aula09-cadastro-completo/) |
+| 03 | Cartão de Visita Digital | [aula03-cartao-visita](aula03-cartao-visita) |
+| 04 | Contador de Hidratação | [aula04-contador-hidratacao](aula04-contador-hidratacao) |
+| 05 | Meu Perfil | [aula05-meu-perfil](aula05-meu-perfil) |
+| 06 | MemoList | [aula06-memolist](aula06-memolist) |
+| 07 | Mini Loja | [aula07-mini-loja](aula07-mini-loja) |
+| 09 | Cadastro Completo | [aula09-cadastro-completo](aula09-cadastro-completo) |
 ---
 
 # ▶ Como Rodar os Projetos
@@ -67,8 +67,9 @@ O app funciona como um mini Linktree pessoal, contendo foto remota, informaçõe
 
 ## 📸 Print do App
 
-![Aula03](./images/aula03-cartao-visita.jpeg)
-
+<div align="center">
+  <img src="./images/aula03-cartao-visita.jpeg" width="220"/>
+</div>
 ---
 
 # 💧 Aula 04 — Contador de Hidratação
@@ -90,9 +91,11 @@ O projeto contabiliza copos de água consumidos e exibe feedback visual ao ating
 
 ## 📸 Print do App
 
-![Aula04](./images/aula04-hidratacao1.jpeg)
-![Aula04](./images/aula04-hidratacao2.jpeg)
-![Aula04](./images/aula04-hidratacao3.jpeg)
+<div align="center">
+  <img src="./images/aula04-hidratacao1.jpeg" width="220"/>
+  <img src="./images/aula04-hidratacao2.jpeg" width="220"/>
+  <img src="./images/aula04-hidratacao3.jpeg" width="220"/>
+</div>
 
 
 ---
@@ -116,8 +119,10 @@ O projeto apresenta informações pessoais, tecnologias favoritas da área de da
 
 ## 📸 Print do App
 
-![Aula05](./images/aula05-meuperfil1.jpeg)
-![Aula05](./images/aula05-meuperfil2.jpeg)
+<div align="center">
+  <img src="./images/aula05-meuperfil1.jpeg" width="220"/>
+  <img src="./images/aula05-meuperfil2.jpeg" width="220"/>
+</div>
 
 ---
 
@@ -142,10 +147,11 @@ O projeto permite adicionar tarefas, marcar como concluídas, salvar automaticam
 
 ## 📸 Print do App
 
-![Aula06](./images/aula06-memolist1.jpeg)
-![Aula06](./images/aula06-memolist2.jpeg)
-![Aula06](./images/aula06-memolist3.jpeg)
-
+<div align="center">
+  <img src="./images/aula06-memolist1.jpeg" width="220"/>
+  <img src="./images/aula06-memolist2.jpeg" width="220"/>
+  <img src="./images/aula06-memolist3.jpeg" width="220"/>
+</div>
 
 ---
 
@@ -170,10 +176,12 @@ O projeto possui catálogo de produtos, tela de detalhes, carrinho em tempo real
 
 ## 📸 Print do App
 
-![Aula07](./images/aula07-miniloja1.jpeg)
-![Aula07](./images/aula07-miniloja2.jpeg)
-![Aula07](./images/aula07-miniloja3.jpeg)
-![Aula07](./images/aula07-miniloja4.jpeg)
+<div align="center">
+  <img src="./images/aula07-miniloja1.jpeg" width="220"/>
+  <img src="./images/aula07-miniloja2.jpeg" width="220"/>
+  <img src="./images/aula07-miniloja3.jpeg" width="220"/>
+  <img src="./images/aula07-miniloja4.jpeg" width="220"/>
+</div>
 
 
 ---
@@ -200,11 +208,13 @@ O projeto inclui múltiplas telas, chips de perfil e loading durante o envio.
 
 ## 📸 Print do App
 
-![Aula09](./images/aula09-cadastro1.jpeg)
-![Aula09](./images/aula09-cadastro2.jpeg)
-![Aula09](./images/aula09-cadastro3.jpeg)
-![Aula09](./images/aula09-cadastro4.jpeg)
-![Aula09](./images/aula09-cadastro5.jpeg)
+<div align="center">
+  <img src="./images/aula09-cadastro1.jpeg" width="220"/>
+  <img src="./images/aula09-cadastro2.jpeg" width="220"/>
+  <img src="./images/aula09-cadastro3.jpeg" width="220"/>
+  <img src="./images/aula09-cadastro4.jpeg" width="220"/>
+  <img src="./images/aula09-cadastro5.jpeg" width="220"/>
+</div>
 
 
 
