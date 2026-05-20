@@ -18,7 +18,6 @@
 | 06 | MemoList | [aula06-memolist](./aula06-memolist/) |
 | 07 | Mini Loja | [aula07-mini-loja](./aula07-mini-loja/) |
 | 09 | Cadastro Completo | [aula09-cadastro-completo](./aula09-cadastro-completo/) |
-
 ---
 
 # ▶ Como Rodar os Projetos
@@ -68,7 +67,7 @@ O app funciona como um mini Linktree pessoal, contendo foto remota, informaçõe
 
 ## 📸 Print do App
 
-![Aula03](./aula03-cartao-visita/assets/print.png)
+![Aula03](./images/aula03-cartao-visita.jpeg)
 
 ---
 
@@ -86,14 +85,15 @@ O projeto contabiliza copos de água consumidos e exibe feedback visual ao ating
 
 ## ✨ Diferenciais implementados
 
-- Interface visual modernizada
 - Ícones personalizados
-- Feedback visual mais intuitivo
-- Design inspirado em aplicativos reais
+- Design inspirado em aplicativos
 
 ## 📸 Print do App
 
-![Aula04](./aula04-contador-hidratacao/assets/print.png)
+![Aula04](./images/aula04-hidratacao1.jpeg)
+![Aula04](./images/aula04-hidratacao2.jpeg)
+![Aula04](./images/aula04-hidratacao3.jpeg)
+
 
 ---
 
@@ -111,14 +111,13 @@ O projeto apresenta informações pessoais, tecnologias favoritas da área de da
 
 ## ✨ Diferenciais implementados
 
-- Interface moderna
 - Cards personalizados
 - Melhor hierarquia visual
-- Estilo profissional
 
 ## 📸 Print do App
 
-![Aula05](./aula05-meu-perfil/assets/print.png)
+![Aula05](./images/aula05-meuperfil1.jpeg)
+![Aula05](./images/aula05-meuperfil2.jpeg)
 
 ---
 
@@ -137,14 +136,16 @@ O projeto permite adicionar tarefas, marcar como concluídas, salvar automaticam
 
 ## ✨ Diferenciais implementados
 
-- Tela inicial personalizada
-- Contador de tarefas pendentes
-- Interface modernizada
+- Tela inicial
+- Contador de tarefas
 - Organização em componentes
 
 ## 📸 Print do App
 
-![Aula06](./aula06-memolist/assets/print.png)
+![Aula06](./images/aula06-memolist1.jpeg)
+![Aula06](./images/aula06-memolist2.jpeg)
+![Aula06](./images/aula06-memolist3.jpeg)
+
 
 ---
 
@@ -164,13 +165,16 @@ O projeto possui catálogo de produtos, tela de detalhes, carrinho em tempo real
 ## ✨ Diferenciais implementados
 
 - Tela de detalhes dos produtos
-- Remoção de itens do carrinho
 - Interface inspirada em apps reais
-- Layout moderno de loja virtual
+- Layout de loja virtual
 
 ## 📸 Print do App
 
-![Aula07](./aula07-mini-loja/assets/print.png)
+![Aula07](./images/aula07-miniloja1.jpeg)
+![Aula07](./images/aula07-miniloja2.jpeg)
+![Aula07](./images/aula07-miniloja3.jpeg)
+![Aula07](./images/aula07-miniloja4.jpeg)
+
 
 ---
 
@@ -189,14 +193,21 @@ O projeto inclui múltiplas telas, chips de perfil e loading durante o envio.
 
 ## ✨ Diferenciais implementados
 
-- Tela inicial personalizada
+- Tela inicial
 - Tela de listagem de cadastros
 - UX aprimorada
 - Interface moderna e profissional
 
 ## 📸 Print do App
 
-![Aula09](./aula09-cadastro-completo/assets/print.png)
+![Aula09](./images/aula09-cadastro1.jpeg)
+![Aula09](./images/aula09-cadastro2.jpeg)
+![Aula09](./images/aula09-cadastro3.jpeg)
+![Aula09](./images/aula09-cadastro4.jpeg)
+![Aula09](./images/aula09-cadastro5.jpeg)
+
+
+
 
 ---
 
